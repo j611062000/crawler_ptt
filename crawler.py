@@ -1,6 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
 
+'''
+I use PTT soft_job board as crawling target. This program can get all the authors/titles from speicific page in soft_job board.
+
+'''
 
 
 for i in range(1300,1355):
